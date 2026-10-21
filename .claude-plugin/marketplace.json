@@ -1,0 +1,12 @@
+{
+  "name": "probe-a",
+  "owner": {"name": "MrBinnacle", "url": "https://github.com/MrBinnacle/rename-probe-a"},
+  "metadata": {"description": "Throwaway marketplace for a repository rename test."},
+  "plugins": [
+    {
+      "name": "probe-plugin",
+      "source": {"source": "git-subdir", "url": "https://github.com/MrBinnacle/rename-probe-a.git", "path": "probe-plugin", "ref": "v1.0.0", "sha": "7e42683bcc75ecd5c2ca891ec0f5fbb781c1dd98"},
+      "description": "Throwaway plugin for a repository rename test."
+    }
+  ]
+}
