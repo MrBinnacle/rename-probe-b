@@ -5,7 +5,7 @@
   "plugins": [
     {
       "name": "probe-plugin",
-      "source": {"source": "git-subdir", "url": "https://github.com/MrBinnacle/rename-probe-a.git", "path": "probe-plugin", "ref": "v1.0.0", "sha": "7e42683bcc75ecd5c2ca891ec0f5fbb781c1dd98"},
+      "source": {"source": "git-subdir", "url": "https://github.com/MrBinnacle/rename-probe-a.git", "path": "probe-plugin", "ref": "v1.0.1", "sha": "d844390dd6c472b98660fdc6a7957a0b37781dc0"},
       "description": "Throwaway plugin for a repository rename test."
     }
   ]
