@@ -1,11 +1,11 @@
 {
-  "name": "probe-a",
-  "owner": {"name": "MrBinnacle", "url": "https://github.com/MrBinnacle/rename-probe-a"},
+  "name": "probe-b",
+  "owner": {"name": "MrBinnacle", "url": "https://github.com/MrBinnacle/rename-probe-b"},
   "metadata": {"description": "Throwaway marketplace for a repository rename test."},
   "plugins": [
     {
       "name": "probe-plugin",
-      "source": {"source": "git-subdir", "url": "https://github.com/MrBinnacle/rename-probe-a.git", "path": "probe-plugin", "ref": "v1.0.1", "sha": "d844390dd6c472b98660fdc6a7957a0b37781dc0"},
+      "source": {"source": "git-subdir", "url": "https://github.com/MrBinnacle/rename-probe-b.git", "path": "probe-plugin", "ref": "v1.0.2", "sha": "47df65fbd0a4ad5afa920654783182226d944edd"},
       "description": "Throwaway plugin for a repository rename test."
     }
   ]
